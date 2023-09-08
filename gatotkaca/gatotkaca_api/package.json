@@ -1,0 +1,18 @@
+{
+  "name": "gatotkaca_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "navetacandra <naveta.cand@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2"
+  }
+}
